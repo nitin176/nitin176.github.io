@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nitin176.place_app",
+      "sha256_cert_fingerprints": [
+        "0A:D1:13:AD:A6:E8:4B:0E:09:CD:82:6D:C1:A7:1E:F5:2F:A6:57:DF:8C:D5:8C:C1:85:D9:F2:65:C3:E8:AF:9F"
+      ]
+    }
+  }
+]
